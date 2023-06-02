@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Joeemor
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html and css 
+- 🌱 I’m currently learning JavaScript
+
 - 💞️ I’m looking to collaborate on any frontend job.
 - 📫 How to reach me @joeemor or IG and Twitter.
 
